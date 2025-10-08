@@ -6,3 +6,5 @@ pycocotools
 PyYAML
 scipy
 transformers
+
+# Python 3.10
